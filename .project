@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Selenium</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Screenshots/HRMS/AmericanAirlines.png</name>
+			<type>1</type>
+			<location>/Users/jessicacabrera/Desktop/Screen Shot 2020-01-08 at 5.37.44 PM.png</location>
+		</link>
+		<link>
+			<name>Screenshots/HRMS/SyntaxScreenShot.png</name>
+			<type>1</type>
+			<location>/Users/jessicacabrera/Desktop/SyntaxScreenShot.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
